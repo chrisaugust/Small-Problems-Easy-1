@@ -17,8 +17,6 @@
 # convert array back into a string
 
 def reverse_sentence(input_string)
-#  arr = input_string.split
-#  arr.reverse.join(' ')
    input_string.split.reverse.join(' ')
 end
 
